@@ -1,0 +1,19 @@
+{
+	"navItems": [
+		{
+			"item": "Dashboard",
+			"id": "dashboardId",
+			"icon": "bbyd-dashboard"
+		},
+		{
+			"item": "Reports",
+			"id": "reportsId",
+			"icon": "chart-table-view"
+		}, 
+		{
+			"item": "Alerts",
+			"id": "alertId",
+			"icon": "alert"
+		}
+	]
+}

@@ -1,0 +1,92 @@
+/* Enter your custom styles here */
+
+.sapMPanelContent:not(.sapMPanelBGTransparent){
+	border-bottom: 1px solid ghostwhite !important;
+}
+
+
+
+/*css for space btw tiles*/
+.sapMST.TwoByOne{								
+	    margin-left: 0.5rem!important;
+}
+.sapMSLIImgIcon{
+	color: #346187
+}
+
+
+/*Map color*/
+.sapUiVbmAnalyticMap {
+    background: aliceblue;
+}
+
+
+/*Small Tile on Analytic Page*/
+.analyticTile{
+	height: 5rem !important;
+	width: 14.5rem !important;
+}
+
+.analyticTile .sapMGTContent{
+	height: 0;
+}
+
+.analyticTile .sapMGTHdrIconImage{
+	color: aliceblue;
+}
+
+
+/*Tile on Alert View*/
+.alertTile{
+	height: 4.5rem !important;
+	width: 14.5rem !important;	
+}
+
+.alertTile .sapMGTContent{
+	height: 0;	
+}
+
+
+
+
+/*Object List Tile Item on Dashboard*/
+.sapMLIB {
+    background: aliceblue;
+}
+.addTileClass1{
+	margin-left: 5px;
+	width: 100%;
+	box-shadow: 0.5px 0.5px 0.5px 0.5px;
+}
+.addTileClass2 {
+	margin-top: 10px;
+	margin-left: 5px;
+	width: 100%;
+	box-shadow: 0.5px 0.5px 0.5px 0.5px;
+}
+
+
+/*Feed Tile Dashboard*/
+.sapMST.TwoByOne {
+    width: 19.5rem;
+    height: 11rem;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px;
+}
+.sapMSTWrapper {
+    position: relative;
+    left: 100%;
+}
+.sapMGT.TwoByOne {
+    width: 19.5rem;
+    height: 11rem;
+}
+.sapMTileCnt.sapMFrameTypeAuto {
+    height: 6.375rem;
+    min-width: 10.875rem;
+    max-width: 19.5rem;
+}
+
+
+.sapMGT.OneByOne{
+	margin: 0 0.4375rem 0.4375rem 0;
+}

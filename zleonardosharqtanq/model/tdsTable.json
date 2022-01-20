@@ -1,0 +1,28 @@
+{
+	"data": [
+		{
+			"days": "Maximum",
+			"eight": "150",
+			"nine": "36734",
+			"ten": "33310",
+			"eleven": "1840",
+			"twelve": "150"
+		}, 
+		{
+			"days": "Average",
+			"eight": "69.28",
+			"nine": "148.34",
+			"ten": "145.09",
+			"eleven": "74.29",
+			"twelve": "73.82"
+		},
+		{
+			"days": "Minimum",
+			"eight": "30",
+			"nine": "30",
+			"ten": "30",
+			"eleven": "30",
+			"twelve": "30"
+		}
+	]
+}

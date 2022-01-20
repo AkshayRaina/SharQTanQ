@@ -1,0 +1,198 @@
+{
+    "resources": [
+        {
+            "name": "css/style.css"
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "view/water-report.view.js"
+        },
+        {
+            "name": "view/alerts.view.js"
+        },
+        {
+            "name": "view/machine-report.view.js"
+        },
+        {
+            "name": "view/device-log.view.js"
+        },
+        {
+            "name": "view/connected-users-report.view.js"
+        },
+        {
+            "name": "view/service-request-report.view.js"
+        },
+        {
+            "name": "view/customer-report.view.js"
+        },
+        {
+            "name": "view/dashboard.view.js"
+        },
+        {
+            "name": "view/reports.view.js"
+        },
+        {
+            "name": "view/tds-report.view.js"
+        },
+        {
+            "name": "view/main.view.js"
+        },
+        {
+            "name": "view/firmware-report.view.js"
+        },
+        {
+            "name": "view/BusinessPartner.view.js"
+        },
+        {
+            "name": "view/product.view.js"
+        },
+        {
+            "name": "index.html"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": "controller/main.controller.js"
+        },
+        {
+            "name": "controller/firmware-report.controller.js"
+        },
+        {
+            "name": "controller/device-log.controller.js"
+        },
+        {
+            "name": "controller/reports.controller.js"
+        },
+        {
+            "name": "controller/service-request-report.controller.js"
+        },
+        {
+            "name": "controller/product.controller.js"
+        },
+        {
+            "name": "controller/dashboard.controller.js"
+        },
+        {
+            "name": "controller/alerts.controller.js"
+        },
+        {
+            "name": "controller/BusinessPartner.controller.js"
+        },
+        {
+            "name": "controller/machine-report.controller.js"
+        },
+        {
+            "name": "controller/water-report.controller.js"
+        },
+        {
+            "name": "controller/tds-report.controller.js"
+        },
+        {
+            "name": "controller/customer-report.controller.js"
+        },
+        {
+            "name": "controller/connected-users-report.controller.js"
+        },
+        {
+            "name": "images/product-fridge.jpg"
+        },
+        {
+            "name": "images/green.png"
+        },
+        {
+            "name": "images/alert.png"
+        },
+        {
+            "name": "images/bp3.jpg"
+        },
+        {
+            "name": "images/fridge-error.png"
+        },
+        {
+            "name": "images/bg.png"
+        },
+        {
+            "name": "images/bp2.jpg"
+        },
+        {
+            "name": "images/poweron.png"
+        },
+        {
+            "name": "images/Quinnox_logo.png"
+        },
+        {
+            "name": "images/accept.png"
+        },
+        {
+            "name": "images/bp1.jpg"
+        },
+        {
+            "name": "images/connected2.png"
+        },
+        {
+            "name": "images/reject.png"
+        },
+        {
+            "name": "images/map-location.png"
+        },
+        {
+            "name": "images/fridge.jpg"
+        },
+        {
+            "name": "images/status_OK.png"
+        },
+        {
+            "name": "images/fridge-success.png"
+        },
+        {
+            "name": "model/serviceTable.json"
+        },
+        {
+            "name": "model/deviceLogTable.json"
+        },
+        {
+            "name": "model/machineTable.json"
+        },
+        {
+            "name": "model/waterTable.json"
+        },
+        {
+            "name": "model/connectedUsersTable.json"
+        },
+        {
+            "name": "model/tdsTable.json"
+        },
+        {
+            "name": "model/models.js"
+        },
+        {
+            "name": "model/customerTable.json"
+        },
+        {
+            "name": "model/menu.json"
+        },
+        {
+            "name": "model/alertTable.json"
+        },
+        {
+            "name": "model/firmwareTable.json"
+        },
+        {
+            "name": "model/comboBox.json"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "neo-app.json"
+        }
+    ]
+}

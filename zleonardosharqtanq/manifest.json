@@ -1,0 +1,232 @@
+{
+    "_version": "1.7.0",
+    "sap.app": {
+        "id": "ZLeonardo_SharqTanq",
+        "type": "application",
+        "i18n": "i18n/i18n.properties",
+        "applicationVersion": {
+            "version": "1.0.0"
+        },
+        "title": "{{SAP-Connected-Products}}",
+        "description": "{{IoT-with-Leonardo}}",
+        "sourceTemplate": {
+            "id": "ui5template.basicSAPUI5ApplicationProject",
+            "version": "1.40.12"
+        },
+        "dataSources": {
+            "menu_alias": {
+                "uri": "model/menu.json",
+                "type": "JSON"
+            },
+            "machineTable_alias": {
+                "uri": "model/machineTable.json",
+                "type": "JSON"
+            },
+            "tdsTable_alias": {
+                "uri": "model/tdsTable.json",
+                "type": "JSON"
+            },
+            "customerTable_alias": {
+                "uri": "model/customerTable.json",
+                "type": "JSON"
+            },
+            "waterTable_alias": {
+                "uri": "model/waterTable.json",
+                "type": "JSON"
+            },
+            "serviceTable_alias": {
+                "uri": "model/serviceTable.json",
+                "type": "JSON"
+            },
+            "connectedUsersTable_alias": {
+                "uri": "model/connectedUsersTable.json",
+                "type": "JSON"
+            },
+            "firmwareTable_alias": {
+                "uri": "model/firmwareTable.json",
+                "type": "JSON"
+            },
+            "alertTable_alias": {
+                "uri": "model/alertTable.json",
+                "type": "JSON"
+            },
+            "deviceLogTable_alias": {
+                "uri": "model/deviceLogTable.json",
+                "type": "JSON"
+            },
+            "services.xsodata": {
+                "uri": "/XSHANA/AKSHAY/dev/myproducts/services.xsodata/",
+                "type": "OData",
+                "settings": {
+                    "odataVersion": "2.0",
+                    "localUri": "localService/metadata.xml"
+                }
+            }
+        }
+    },
+    "sap.ui": {
+        "technology": "UI5",
+        "icons": {
+            "icon": "",
+            "favIcon": "",
+            "phone": "",
+            "phone@2": "",
+            "tablet": "",
+            "tablet@2": ""
+        },
+        "deviceTypes": {
+            "desktop": true,
+            "tablet": true,
+            "phone": true
+        },
+        "supportedThemes": [
+            "sap_hcb",
+            "sap_belize"
+        ]
+    },
+    "sap.ui5": {
+        "rootView": {
+            "viewName": "ZLeonardo_SharqTanq.view.main",
+            "type": "JS"
+        },
+        "dependencies": {
+            "minUI5Version": "1.30.0",
+            "libs": {
+                "sap.ui.core": {},
+                "sap.m": {},
+                "sap.ui.layout": {},
+                "sap.ushell": {},
+                "sap.collaboration": {},
+                "sap.ui.comp": {},
+                "sap.uxap": {}
+            }
+        },
+        "contentDensities": {
+            "compact": true,
+            "cozy": true
+        },
+        "models": {
+            "i18n": {
+                "type": "sap.ui.model.resource.ResourceModel",
+                "settings": {
+                    "bundleName": "ZLeonardo_SharqTanq.i18n.i18n"
+                }
+            },
+            "menu": {
+                "type": "sap.ui.model.json.JSONModel",
+                "dataSource": "menu_alias"
+            },
+            "machineTable": {
+                "type": "sap.ui.model.json.JSONModel",
+                "dataSource": "machineTable_alias"
+            },
+            "tdsTable": {
+                "type": "sap.ui.model.json.JSONModel",
+                "dataSource": "tdsTable_alias"
+            },
+            "customerTable": {
+                "type": "sap.ui.model.json.JSONModel",
+                "dataSource": "customerTable_alias"
+            },
+            "waterTable": {
+                "type": "sap.ui.model.json.JSONModel",
+                "dataSource": "waterTable_alias"
+            },
+            "serviceTable": {
+                "type": "sap.ui.model.json.JSONModel",
+                "dataSource": "serviceTable_alias"
+            },
+            "connectedUsersTable": {
+                "type": "sap.ui.model.json.JSONModel",
+                "dataSource": "connectedUsersTable_alias"
+            },
+            "firmwareTable": {
+                "type": "sap.ui.model.json.JSONModel",
+                "dataSource": "firmwareTable_alias"
+            },
+            "alertTable": {
+                "type": "sap.ui.model.json.JSONModel",
+                "dataSource": "alertTable_alias"
+            },
+            "deviceLogTable": {
+                "type": "sap.ui.model.json.JSONModel",
+                "dataSource": "deviceLogTable_alias"
+            }
+        },
+        "resources": {
+            "css": [
+                {
+                    "uri": "css/style.css"
+                }
+            ]
+        },
+        "routing": {
+            "config": {
+                "routerClass": "sap.m.routing.Router",
+                "viewType": "JS",
+                "viewPath": "ZLeonardo_SharqTanq.view",
+                "targetControl": "shellLayout",
+                "clearTarget": "false",
+                "transition": "slide"
+            },
+            "routes": [
+                {
+                    "pattern": "dashboard",
+                    "name": "dashboard",
+                    "view": "dashboard",
+                    "clearTarget": true,
+                    "targetAggregation": "content"
+                },
+                {
+                    "pattern": "reports",
+                    "name": "reports",
+                    "view": "reports",
+                    "clearTarget": true,
+                    "targetAggregation": "content"
+                },
+                {
+                    "pattern": "alerts",
+                    "name": "alerts",
+                    "view": "alerts",
+                    "clearTarget": true,
+                    "targetAggregation": "content"
+                },
+                {
+                    "pattern": "product",
+                    "name": "product",
+                    "view": "product",
+                    "clearTarget": true,
+                    "targetAggregation": "content"
+                },
+                {
+                    "pattern": "BusinessPartner",
+                    "name": "BusinessPartner",
+                    "view": "BusinessPartner",
+                    "clearTarget": true,
+                    "targetAggregation": "content"
+                }
+            ],
+            "targets": {
+                "dashboard": {
+                    "viewName": "dashboard"
+                },
+                "reports": {
+                    "viewName": "reports"
+                },
+                "alerts": {
+                    "viewName": "alerts"
+                },
+                "product": {
+                    "viewName": "product"
+                },
+                "BusinessPartner": {
+                    "viewName": "BusinessPartner"
+                }
+            }
+        }
+    },
+    "sap.platform.hcp": {
+        "uri": "",
+        "_version": "1.1.0"
+    }
+}
