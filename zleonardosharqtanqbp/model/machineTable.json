@@ -1,0 +1,102 @@
+{
+	"data": [
+		{
+			"id": "akjjhf7e4ru54ou",
+			"status": "accept",
+			"color": "green",
+			"barcode": "948567936896",
+			"model": "GENEUS IOT",
+			"firmware": "EFL_G_MB_2.01",
+			"updatedDateTime": "14/10/2016 04:16",
+			"gpsLocation": "18.52 , 73.90",
+			"location": "Pune, Maharashtra",
+			"customerAdmin": "-.-",
+			"loginAdmin": "v12@gmail.com",
+			"createdDateTime" : "11/10/2016 01:16"
+		},
+		{
+			"id": "kuaghjkfd897qer",
+			"status": "accept",
+			"color": "green",
+			"barcode": "54354361764",
+			"model": "GENEUS IOT",
+			"firmware": "EFL_G_MB_2.02",
+			"updatedDateTime": "14/10/2016 04:16",
+			"gpsLocation": "18.52 , 73.90",
+			"location": "Pune, Maharashtra",
+			"customerAdmin": "-.-",
+			"loginAdmin": "v12@gmail.com",
+			"createdDateTime" : "11/10/2016 01:16"
+		},
+		{
+			"id": "92yrbfkjeala",
+			"status": "decline",
+			"color": "red",
+			"barcode": "4756479534554",
+			"model": "GENEUS IOT",
+			"firmware": "EFL_G_MB_2.01",
+			"updatedDateTime": "14/10/2016 04:16",
+			"gpsLocation": "18.52 , 73.90",
+			"location": "Pune, Maharashtra",
+			"customerAdmin": "-.-",
+			"loginAdmin": "v12@gmail.com",
+			"createdDateTime" : "11/10/2016 01:16"
+		},
+		{
+			"id": "kweghr7834",
+			"status": "accept",
+			"color": "green",
+			"barcode": "53479457454",
+			"model": "GENEUS IOT",
+			"firmware": "EFL_G_MB_2.05",
+			"updatedDateTime": "14/10/2016 04:16",
+			"gpsLocation": "18.52 , 73.90",
+			"location": "Pune, Maharashtra",
+			"customerAdmin": "-.-",
+			"loginAdmin": "v12@gmail.com",
+			"createdDateTime" : "11/10/2016 01:16"
+		},
+		{
+			"id": "jh98t4744",
+			"status": "decline",
+			"color": "red",
+			"barcode": "437856473580",
+			"model": "GENEUS IOT",
+			"firmware": "EFL_G_MB_2.03",
+			"updatedDateTime": "14/10/2016 04:16",
+			"gpsLocation": "18.52 , 73.90",
+			"location": "Pune, Maharashtra",
+			"customerAdmin": "-.-",
+			"loginAdmin": "v12@gmail.com",
+			"createdDateTime" : "11/10/2016 01:16"
+		},
+		{
+			"id": "kjsefr977346r",
+			"status": "decline",
+			"color": "red",
+			"barcode": "457643795645",
+			"model": "GENEUS IOT",
+			"firmware": "EFL_G_MB_2.22",
+			"updatedDateTime": "14/10/2016 04:16",
+			"gpsLocation": "18.52 , 73.90",
+			"location": "Pune, Maharashtra",
+			"customerAdmin": "-.-",
+			"loginAdmin": "v12@gmail.com",
+			"createdDateTime" : "11/10/2016 01:16"
+		},
+		{
+			"id": "ou3i4ht974",
+			"status": "accept",
+			"color": "green",
+			"barcode": "54547985496",
+			"model": "GENEUS IOT",
+			"firmware": "EFL_G_MB_2.02",
+			"updatedDateTime": "14/10/2016 04:16",
+			"gpsLocation": "18.52 , 73.90",
+			"location": "Pune, Maharashtra",
+			"customerAdmin": "-.-",
+			"loginAdmin": "v12@gmail.com",
+			"createdDateTime" : "11/10/2016 01:16"
+		}
+		]
+}

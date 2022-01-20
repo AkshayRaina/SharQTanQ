@@ -1,0 +1,201 @@
+{
+    "resources": [
+        {
+            "name": "index.html"
+        },
+        {
+            "name": "controller/firmware-report.controller.js"
+        },
+        {
+            "name": "controller/tds-report.controller.js"
+        },
+        {
+            "name": "controller/main.controller.js"
+        },
+        {
+            "name": "controller/product_BP.controller.js"
+        },
+        {
+            "name": "controller/dashboard.controller.js"
+        },
+        {
+            "name": "controller/reports.controller.js"
+        },
+        {
+            "name": "controller/BusinessPartner_BP.controller.js"
+        },
+        {
+            "name": "controller/water-report.controller.js"
+        },
+        {
+            "name": "controller/customer-report.controller.js"
+        },
+        {
+            "name": "controller/connected-users-report.controller.js"
+        },
+        {
+            "name": "controller/machine-report.controller.js"
+        },
+        {
+            "name": "controller/device-log.controller.js"
+        },
+        {
+            "name": "controller/alerts.controller.js"
+        },
+        {
+            "name": "controller/service-request-report.controller.js"
+        },
+        {
+            "name": "Component.js"
+        },
+        {
+            "name": "css/style.css"
+        },
+        {
+            "name": "images/poweron.png"
+        },
+        {
+            "name": "images/alert.png"
+        },
+        {
+            "name": "images/fridge.jpg"
+        },
+        {
+            "name": "images/fridge-error.png"
+        },
+        {
+            "name": "images/status_OK.png"
+        },
+        {
+            "name": "images/accept.png"
+        },
+        {
+            "name": "images/green.png"
+        },
+        {
+            "name": "images/bg.png"
+        },
+        {
+            "name": "images/bp3.jpg"
+        },
+        {
+            "name": "images/bp2.jpg"
+        },
+        {
+            "name": "images/bp1.jpg"
+        },
+        {
+            "name": "images/map-location.png"
+        },
+        {
+            "name": "images/connected2.png"
+        },
+        {
+            "name": "images/Quinnox_logo.png"
+        },
+        {
+            "name": "images/reject.png"
+        },
+        {
+            "name": "images/fridge-success.png"
+        },
+        {
+            "name": "images/product-fridge.jpg"
+        },
+        {
+            "name": "i18n/i18n.properties",
+            "raw": "i18n/i18n.properties"
+        },
+        {
+            "name": "view/device-log.view.js"
+        },
+        {
+            "name": "view/main.view.js"
+        },
+        {
+            "name": "view/water-report.view.js"
+        },
+        {
+            "name": "view/connected-users-report.view.js"
+        },
+        {
+            "name": "view/firmware-report.view.js"
+        },
+        {
+            "name": "view/customer-report.view.js"
+        },
+        {
+            "name": "view/reports.view.js"
+        },
+        {
+            "name": "view/alerts.view.js"
+        },
+        {
+            "name": "view/dashboard.view.js"
+        },
+        {
+            "name": "view/tds-report.view.js"
+        },
+        {
+            "name": "view/machine-report.view.js"
+        },
+        {
+            "name": "view/BusinessPartner_BP.view.js"
+        },
+        {
+            "name": "view/product_BP.view.js"
+        },
+        {
+            "name": "view/service-request-report.view.js"
+        },
+        {
+            "name": "manifest.json"
+        },
+        {
+            "name": "model/alertTable.json"
+        },
+        {
+            "name": "model/comboBox.json"
+        },
+        {
+            "name": "model/firmwareTable.json"
+        },
+        {
+            "name": "model/customerTable.json"
+        },
+        {
+            "name": "model/machineTable.json"
+        },
+        {
+            "name": "model/deviceLogTable.json"
+        },
+        {
+            "name": "model/tdsTable.json"
+        },
+        {
+            "name": "model/bpTable.json"
+        },
+        {
+            "name": "model/waterTable.json"
+        },
+        {
+            "name": "model/models.js"
+        },
+        {
+            "name": "model/menu.json"
+        },
+        {
+            "name": "model/serviceTable.json"
+        },
+        {
+            "name": "model/connectedUsersTable.json"
+        },
+        {
+            "name": "Component-preload.js",
+            "merged": true
+        },
+        {
+            "name": "neo-app.json"
+        }
+    ]
+}

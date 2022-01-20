@@ -1,0 +1,40 @@
+{
+	"data":	[
+		{
+			"name" : "Jagannath Mane",
+			"email" : "jagan@gmail.com",
+			"device": "Nexus 5X / Android",
+			"contact" : "8976857687"
+		},
+		{
+			"name" : "Akshy Raina",
+			"email" : "akshay@gmail.com",
+			"device": "Samsung J7 Prime / Android",
+			"contact" : "8095265587"
+		},		
+		{
+			"name" : "Rohan Kamath",
+			"email" : "rohan@gmail.com",
+			"device": "Moto G / Android",
+			"contact" : "8095261545"
+		},
+		{
+			"name" : "Jagannath Mane",
+			"email" : "jagan@gmail.com",
+			"device": "Nexus 5X / Android",
+			"contact" : "8067851545"
+		},
+		{
+			"name" : "Akshy Raina",
+			"email" : "akshay@gmail.com",
+			"device": "Samsung J7 Prime / Android",
+			"contact" : "9988989898"
+		},		
+		{
+			"name" : "Rohan Kamath",
+			"email" : "rohan@gmail.com",
+			"device": "Moto G / Android",
+			"contact" : "8095261545"
+		}
+	]
+}

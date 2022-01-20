@@ -1,0 +1,81 @@
+{
+	"data": [
+		{
+			"srNo": "1",
+			"version": "13",
+			"firmware": "QNX_G_MB_1.03",
+			"description": "QNX IOT Main Board Version 1.03",
+			"checksum": "24321",
+			"createdDate": "20/07/2017 17:40",
+			"approve": "approved",
+			"deleteAction": "Delete",
+			"publishAction": "Publish"
+		},
+		{
+			"srNo": "2",
+			"version": "31",
+			"firmware": "QNX_G_MB_3.01",
+			"description": "QNX IOT Main Board Version 3.01",
+			"checksum": "38159",
+			"createdDate": "05/07/2017 17:03",
+			"approve": "approved",
+			"deleteAction": "Delete",
+			"publishAction": "Publish"
+		},
+		{
+			"srNo": "3",
+			"version": "29",
+			"firmware": "QNX_G_MB_2_09",
+			"description": "QNX IOT Main Board Version 2.08",
+			"checksum": "30173",
+			"createdDate": "29/07/2017 17:03",
+			"approve": "rejected",
+			"deleteAction": "Delete",
+			"publishAction": "Publish"
+		},
+		{
+			"srNo": "4",
+			"version": "13",
+			"firmware": "QNX_G_MB_1_03",
+			"description": "QNX IOT Main Board Version 1.03",
+			"checksum": "24321",
+			"createdDate": "20/07/2017 17:40",
+			"approve": "approved",
+			"deleteAction": "Delete",
+			"publishAction": "Publish"
+		},
+		{
+			"srNo": "5",
+			"version": "13",
+			"firmware": "QNX_G_MB_1_03",
+			"description": "QNX IOT Main Board Version 1.03",
+			"checksum": "24321",
+			"createdDate": "20/07/2017 17:40",
+			"approve": "rejected",
+			"deleteAction": "Delete",
+			"publishAction": "Publish"
+		},
+		{
+			"srNo": "6",
+			"version": "13",
+			"firmware": "QNX_G_MB_1_03",
+			"description": "QNX IOT Main Board Version 1.03",
+			"checksum": "24321",
+			"createdDate": "20/07/2017 17:40",
+			"approve": "approved",
+			"deleteAction": "Delete",
+			"publishAction": "Publish"
+		},
+		{
+			"srNo": "7",
+			"version": "13",
+			"firmware": "QNX_G_MB_1_03",
+			"description": "QNX IOT Main Board Version 1.03",
+			"checksum": "24321",
+			"createdDate": "20/07/2017 17:40",
+			"approve": "approved",
+			"deleteAction": "Delete",
+			"publishAction": "Publish"
+		}
+		]
+}
